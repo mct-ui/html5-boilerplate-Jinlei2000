@@ -1,0 +1,11 @@
+{
+  "name": "MCT",
+  "short_name": "MCT",
+  "icons": [{
+    "src": "google-touch-icon.png",
+    "sizes": "512x512"
+  }],
+  "theme_color": "#44c9f6",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
